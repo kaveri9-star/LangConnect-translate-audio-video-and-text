@@ -22,7 +22,7 @@ To do so:-
 ----
 `STEP 2` - Cloning the Repository :
 ```
-    git clone https://github.com/BhumiZalte12/LangConnect-translate-audio-video-and-text/edit/main/README.md
+    git clone https://github.com/kaveri9-star/LangConnect-translate-audio-video-and-text.git
     cd LangConnect-translate-audio-video-and-text
 ```
 ----
